@@ -11,4 +11,4 @@ Some useful articles about text cleaning:
 
 [clean text for nlp](http://ieva.rocks/2016/08/07/cleaning-text-for-nlp/)
 
-[text cleaning ](https://chrisalbon.com/python/cleaning_text.html)
+[text cleaning@ChrisAlbon](https://chrisalbon.com/python/cleaning_text.html)
