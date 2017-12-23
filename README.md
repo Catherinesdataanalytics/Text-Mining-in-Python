@@ -1,7 +1,7 @@
 # Text-Mining-in-Python
 [Text Mining in Python(coursera)](https://www.coursera.org/learn/python-text-mining/lecture/MeheH/handling-text-in-python)
 
-[Regular Expression cheat sheet]( https://docs.python.org/3/library/re.html）
+[Regular Expression cheat sheet]( https://docs.python.org/3/library）
 
 Some useful articles about text cleaning:
 
